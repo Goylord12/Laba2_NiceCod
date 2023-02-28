@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Laba_2FullShitCode")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Laba_2ShitCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Laba_2FullShitCode")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Laba_2FullShitCode")]
+[assembly: System.Reflection.AssemblyProductAttribute("Laba_2ShitCode")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Laba_2ShitCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

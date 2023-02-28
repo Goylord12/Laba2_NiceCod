@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\bin\Debug\net6.0\Laba_2ShitCode.exe
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\bin\Debug\net6.0\Laba_2ShitCode.deps.json
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\bin\Debug\net6.0\Laba_2ShitCode.runtimeconfig.json
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\bin\Debug\net6.0\Laba_2ShitCode.dll
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\bin\Debug\net6.0\Laba_2ShitCode.pdb
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.dll
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\refint\Laba_2ShitCode.dll
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.pdb
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\Laba_2ShitCode.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Laba_2ShitCode\Laba_2ShitCode\obj\Debug\net6.0\ref\Laba_2ShitCode.dll
